@@ -1,0 +1,1 @@
+we first reduced the fps of the videos to reduce the scope of data to work with. then we isolated the face area to maximize efficiency. then we regularized the resolution of all the frames so model can work with every single one of em. we then passed the frame by frame data of each video to the model. the weights are in the .h5 file
